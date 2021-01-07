@@ -1,0 +1,6 @@
+flutter_native_splash:
+  image: assets/images/blood.png
+  color: "f0f0f0"
+  android_disable_fullscreen: true
+
+  # flutter pub pub run flutter_native_splash:create
